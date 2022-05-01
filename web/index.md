@@ -6,3 +6,4 @@ has_toc: false
 ---
 
 * [Jurassic Park](jurassic-park.md)
+* [Personnel](personnel.md)

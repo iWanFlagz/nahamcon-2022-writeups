@@ -15,3 +15,4 @@ Writeups for the Challenges that iWanFlagz solved in [Nahamcon CTF 2022](https:/
 
 * [Web](web/index.md)
     * [Jurassic Park](web/jurassic-park.md)
+    * [Personnel](personnel.md)
