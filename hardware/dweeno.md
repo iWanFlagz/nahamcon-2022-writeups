@@ -80,7 +80,7 @@ void loop() {
 
 In `loop()` we can see that it processes the flag text character by character and splits them into two 4-bit halves every iteration. We can see at `get_output()` no processing is done on the code side, we need to look at the hardware. We take note of the output and input pin mappings: `in1=29, in2=27, in3=25, in4=23; out1=53, out2=51, out3=49, out4=47;`
 
-Taking at look at the output, we can see that it is just binary strings, as expected reading the program code:
+Taking at look at the output, we can see that it is just binary strings, as expected reading from the program code:
 
 ```
 00110011
