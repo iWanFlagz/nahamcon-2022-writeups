@@ -17,7 +17,7 @@ We are given the program source code, output of the program along with a photo a
 
 Looking at the program source code:
 
-```C
+```c
 char * flag = "REDACTED";
 String curr, first, second;
 int in1=29, in2=27, in3=25, in4=23;
@@ -137,7 +137,7 @@ From the datasheet we can understand that the IC performs a XOR of two different
 
 With this we can simply write a python script to reverse the process without having to construct the corresponding hardware:
 
-```Python
+```py
 filename="./output.txt"
 
 def convert(binary):
