@@ -22,6 +22,8 @@ Writeups for the Challenges that iWanFlagz solved in [Nahamcon CTF 2022](https:/
     * [Two For One](web/two-for-one.md)
     * [Deafcon](web/deafcon.md)
     * [Poller](web/poller.md)
+* [Malware](malware/index.md)
+    * [Brain Melt](malware/brain-melt.md)
 * [Mobile](mobile/index.md)
     * [OTP Vault](mobile/otp-vault.md)
     * [Secure Notes](mobile/secure-notes.md)
