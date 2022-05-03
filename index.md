@@ -22,3 +22,5 @@ Writeups for the Challenges that iWanFlagz solved in [Nahamcon CTF 2022](https:/
     * [Two For One](web/two-for-one.md)
     * [Deafcon](web/deafcon.md)
     * [Poller](web/poller.md)
+* [Hardware](hardware/index.md)
+    * [Dweeno](hardware/dweeno.md)
